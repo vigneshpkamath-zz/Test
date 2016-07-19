@@ -1,2 +1,3 @@
 # Test
-To Test Jenkin job.
+-To test Jenkin job.
+-To test git config.
